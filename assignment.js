@@ -77,3 +77,12 @@
 // console.log(
 //   `The sum of all even numbers from 0 - 100 is ${sumEven}. And The sum of all odd numbers from 0 - 100 is ${sumOdd}`
 // );
+
+// let i = 5;
+// while (i > 0) {
+//   console.log(i);
+//   i--;
+// }
+
+Use while loop and convert our solutions from for loop to loop
+
