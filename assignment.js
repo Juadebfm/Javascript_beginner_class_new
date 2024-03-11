@@ -84,5 +84,10 @@
 //   i--;
 // }
 
-Use while loop and convert our solutions from for loop to loop
+// Use while loop and convert our solutions from for loop to loop
 
+// const numbers = [1, 2, 3, 4];
+
+// const doubledNumbers = numbers.map((num) => {
+//   return num * 2;
+// });
